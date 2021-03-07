@@ -1,0 +1,16 @@
+body{
+    background: linen;
+    color: green;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+h3 {
+    text-align: center;
+    color: darkred;
+}
+
+span{
+    color: blue;
+    font-size: 20px;
+}

@@ -1,0 +1,19 @@
+body {
+    background-color: mistyrose;
+    color: blueviolet;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+h3 {
+    color: purple;
+    text-align: center;
+}
+
+hr {
+    border: 5px solid yellowgreen;
+}
+span {
+    color: blue;
+    font-size: 20px;
+}

@@ -1,0 +1,12 @@
+UAC
+운영체제 게정 패스워드 정책
+kail - gdb
+https://www.rfc-editor.org
+1 byte = 8 bits
+NAT 서비스
+cmd : netstat -an = 네트워크 계층, 전송 계층 확인 명령어
+리버스쉘
+port - 서버스 구분  ip - 외부 라우터끼리 호스트 구분 mac - 같은 네트워크 호스트끼리 통신
+tcp udp		ip(라우터)				arp(스위치)
+arp-ping
+nac

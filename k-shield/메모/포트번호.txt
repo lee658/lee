@@ -1,0 +1,8 @@
+Telent : 23
+FTP : 21
+DHCP : 67
+TFTP : 69
+HTTP : 80
+SMTP : 25
+DNS : 53
+SNMP : 161 162(manager)

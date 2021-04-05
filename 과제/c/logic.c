@@ -1,12 +1,11 @@
-﻿#define _CRT_SECURE_NO_WARNINGS
-#include <stdio.h>
+﻿#include <stdio.h>
 
 int main() {
 	int x, y;
 
 	printf("두개의 정수를 입력하시오:");
 
-	scanf("%d%d", &x, &y);
+	scanf_s("%d%d", &x, &y);
 
 	printf("%d && %d의 결과값: %d", x, y, x && y);
 	printf("%d || %d의 결과값: %d", x, y, x || y);

@@ -15,31 +15,31 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Documents\카카오톡 받은 파일\Project_3\Project_3\number 7.c">
+    <ClCompile Include="object 7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\카카오톡 받은 파일\Project_3\Project_3\number 8.c">
+    <ClCompile Include="object 8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\카카오톡 받은 파일\Project_3\Project_3\number 9.c">
+    <ClCompile Include="object 9.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\카카오톡 받은 파일\Project_3\Project_3\number 1.c">
+    <ClCompile Include="object 1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\카카오톡 받은 파일\Project_3\Project_3\number 2.c">
+    <ClCompile Include="object 2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\카카오톡 받은 파일\Project_3\Project_3\number 3.c">
+    <ClCompile Include="object 3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\카카오톡 받은 파일\Project_3\Project_3\number 4.c">
+    <ClCompile Include="object 4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\카카오톡 받은 파일\Project_3\Project_3\number 5.c">
+    <ClCompile Include="object 5.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\카카오톡 받은 파일\Project_3\Project_3\number 6.c">
+    <ClCompile Include="object 6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

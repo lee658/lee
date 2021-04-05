@@ -18,6 +18,33 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="object 1.c" />
+    <ClCompile Include="object 2.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="object 3.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="object 4.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="object 5.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="object 6.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="object 7.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="object 8.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="object 9.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -138,17 +165,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\..\Documents\카카오톡 받은 파일\Project_3\Project_3\number 1.c" />
-    <ClCompile Include="..\..\..\..\Documents\카카오톡 받은 파일\Project_3\Project_3\number 2.c" />
-    <ClCompile Include="..\..\..\..\Documents\카카오톡 받은 파일\Project_3\Project_3\number 3.c" />
-    <ClCompile Include="..\..\..\..\Documents\카카오톡 받은 파일\Project_3\Project_3\number 4.c" />
-    <ClCompile Include="..\..\..\..\Documents\카카오톡 받은 파일\Project_3\Project_3\number 5.c" />
-    <ClCompile Include="..\..\..\..\Documents\카카오톡 받은 파일\Project_3\Project_3\number 6.c" />
-    <ClCompile Include="..\..\..\..\Documents\카카오톡 받은 파일\Project_3\Project_3\number 7.c" />
-    <ClCompile Include="..\..\..\..\Documents\카카오톡 받은 파일\Project_3\Project_3\number 8.c" />
-    <ClCompile Include="..\..\..\..\Documents\카카오톡 받은 파일\Project_3\Project_3\number 9.c" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

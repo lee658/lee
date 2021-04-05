@@ -1,16 +1,15 @@
-#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main()
 {
 	double temperature_f, temperature_c;
 
-	printf("È­¾¾°ªÀ» ÀÔ·ÂÇÏ½Ã¿À: ");
+	printf("È­ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½ï¿½Ï½Ã¿ï¿½: ");
 	scanf("%lf", &temperature_f);
 
 	temperature_c = (5.0 / 9.0) * (temperature_f - 32.0);
 
-	printf("¼·¾¾°ªÀº %lfµµ ÀÔ´Ï´Ù.", temperature_c);
+	printf("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ %lfï¿½ï¿½ ï¿½Ô´Ï´ï¿½.", temperature_c);
 
 	return 0;
 }

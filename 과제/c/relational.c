@@ -1,18 +1,17 @@
-#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main() {
 	int x, y;
 
-	printf("µÎ°³ÀÇ Á¤¼ö¸¦ ÀÔ·ÂÇÏ½Ã¿À: ");
-	scanf("%d%d", &x, &y);
+	printf("ï¿½Î°ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½ï¿½Ï½Ã¿ï¿½: ");
+	scanf_s("%d%d", &x, &y);
 
-	printf("x == yÀÇ °á°ú °ª: %d\n", x == y);
-	printf("x != yÀÇ °á°ú °ª: %d\n", x != y);
-	printf("x > yÀÇ °á°ú °ª: %d\n", x > y);
-	printf("x < yÀÇ °á°ú °ª: %d\n", x < y);
-	printf("x >= yÀÇ °á°ú °ª: %d\n", x >= y);
-	printf("x <= yÀÇ °á°ú °ª: %d\n", x <= y);
+	printf("x == yï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½: %d\n", x == y);
+	printf("x != yï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½: %d\n", x != y);
+	printf("x > yï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½: %d\n", x > y);
+	printf("x < yï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½: %d\n", x < y);
+	printf("x >= yï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½: %d\n", x >= y);
+	printf("x <= yï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½: %d\n", x <= y);
 
 	return 0;
 }

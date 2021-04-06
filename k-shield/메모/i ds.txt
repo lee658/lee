@@ -75,4 +75,5 @@ IDS 탐지순서
 - 별도의 서버가 필요하다
 
 
+securityonion
 

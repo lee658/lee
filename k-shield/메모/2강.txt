@@ -1,3 +1,39 @@
 트러블시팅
 방화벽 - 안티ddos - ids/ips -  웹방화벽 - 바이러스월 - drm -dlp
-통합로그 분석장비(esm, sim)
+통합로그 분석장비(esm, sim0
+시스템 구조 디렉토리구조 
+리눅스 *tmp 바이너리 로그 존재
+리눅스 PAM
+인터넷데몬 크론 서비스 = 설정 파일 (침해사고 분석)
+demsg 부팅로그
+이벤트로그 - 시스템, 보안감사, 응용프로그램
+(xp > evt, Vista > evtx)
+윈도우는 대부분 바이너리 > viewer > Event viewer
+c\Windows\system32\ winevt\logs
+로그온 유형   etw
+관문네트워크 
+
+스노트
+규칙 헤더
+Action > pritocal > Source iP > Source Port > Destination Ip > Destination Port
+
+Rule Option
+msg : SQL, XSS
+gid : 그룹핑
+sid : 식별자 1~99 > 예약번 100~1000000 스노트식별자 1000001 > 커스텀
+rev : 버전 
+priority : 우선순위
+reference
+classtype
+content: "abc"  "|65 66 67|" 탐지
+nocase : "|44 45 46|"nocase; > abc ABC ABc 
+depth: depth:5; 처음부터 5바이트
+offset: offset: 5;
+
+distance : "123"; distance10; 
+MZ; distance16; PE; MZ 16바이트뒤에 PE가 있으면~ (조건문))
+within
+
+pcre : 정규표현식
+
+owsp top10

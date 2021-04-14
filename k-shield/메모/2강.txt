@@ -37,3 +37,13 @@ within
 pcre : 정규표현식
 
 owsp top10
+
+로그란? > 보안로그 차이점 > 보안로그의 어디서 생성, 저장, 사용 위치
+os,보안장비 > 왜 로그가 나오는가?
+로그의 사용법 
+
+서버는 서비스를 제공하는곳 > 즉 프로세스(백그라운드) > 취약점을 가지고 있다(프로그램 > 프로세스로 바뀔때)
+tcp wrapper : inrtd = xinetd(/etc/hosts.allow, /etc/hosts.deny)Source ip IP, Daemon 접근 통제
+1. hosts.allow/deny 2. text 3. host based security Solution 4. 관리상 용이하지않음
+
+firewall > ip, port 접근통제

@@ -1,0 +1,4 @@
+﻿  5.c
+C:\Users\이승협\Desktop\codeing\mid_exam\exam\exam\5.c(6,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\이승협\Desktop\codeing\mid_exam\exam\exam\5.c(6,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  exam.vcxproj -> C:\Users\이승협\Desktop\codeing\mid_exam\exam\Debug\exam.exe

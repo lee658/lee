@@ -27,5 +27,8 @@
     <ClCompile Include="algo_1158.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="algo_10824.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,5 +1,0 @@
-﻿  day4_010.cpp
-C:\Users\이승협\Desktop\codeing\lecther\Korea it\clang\004\day004_001\day4_010.cpp(6,10): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
-C:\Users\이승협\Desktop\codeing\lecther\Korea it\clang\004\day004_001\day4_010.cpp(6,10): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
-C:\Users\이승협\Desktop\codeing\lecther\Korea it\clang\004\day004_001\day4_010.cpp(6,10): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int'입니다.
-  day004_001.vcxproj -> C:\Users\이승협\Desktop\codeing\lecther\Korea it\clang\004\day004_001\Debug\day004_001.exe

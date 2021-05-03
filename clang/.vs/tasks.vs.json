@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-003",
+      "appliesTo": "003/",
+      "type": "launch"
+    }
+  ]
+}

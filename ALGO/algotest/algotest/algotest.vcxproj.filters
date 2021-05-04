@@ -72,7 +72,16 @@
     <ClCompile Include="algo_2748_dp.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="algo_2579_cp.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="algo_2579.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="algo_12865.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="algo_12865_cp.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
